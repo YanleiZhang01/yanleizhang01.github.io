@@ -3,18 +3,15 @@ layout: about
 title: Home
 permalink: /
 subtitle: >
-  Postdoctoral Researcher ·
-  <a href="https://mila.quebec/en/" target="_blank">Mila – Quebec AI Institute</a> ·
-  <a href="https://krishnaswamylab.org" target="_blank">Yale University</a> ·
-  <a href="https://www.helmholtz-munich.de/en/aidos" target="_blank">Helmholtz Munich</a>
+  <a href="https://www.queensu.ca/" target="_blank">Queen's University</a>
 
 profile:
   align: right
-  image: profile.jpg
+  image: Kaly.jpg
   image_circular: true
   more_info: |
     Postdoctoral Researcher<br>
-    Mila – Quebec AI Institute<br>
+    Queen's University<br>
     yanlei.zhang@mila.quebec
 
 social: true
