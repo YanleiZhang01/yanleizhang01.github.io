@@ -1,0 +1,39 @@
+"NeurIPS":
+  url: https://papers.nips.cc/
+  color: "#ffe4e1"
+
+"AISTATS":
+  url: https://aistats.org/aistats2024/
+  color: "#bee3c6"
+
+"ICML":
+  url: https://icml.cc/
+  color: "#21046b"
+
+"Bioinformatics":
+  url: https://academic.oup.com/bioinformatics
+  color: "#2b2b2b"
+
+"MLCB":
+  url: https://sites.google.com/cs.washington.edu/mlcb2023/
+  color: "#a1a391"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#860b35"
+
+"OpenReview":
+  url: https://openreview.net/
+  color: "#bd1919 "
+
+"IEEE Access":
+  url: https://ieeeaccess.ieee.org/
+  color: "#115579"
+
+"ISPLC":
+  url: https://www.ieee-isplc.org/
+  color: "#115579"
+
+"IEEE OCEANS":
+  url: https://www.oceansconference.org/
+  color: "#115579"

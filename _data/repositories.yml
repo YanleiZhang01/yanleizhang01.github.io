@@ -1,0 +1,28 @@
+github_users:
+  - lazaratan
+  - NoahElRimawiFine
+  - kpetrovicc
+  - amorehead
+  #- necludov
+  #- atong01
+  #- recursionpharma
+  #- torvalds
+  #- alshedivat
+
+github_repos:
+  - lazaratan/meta-flow-matching
+  - lazaratan/dyn-gfn
+  - necludov/super-diffusion
+  - atong01/conditional-flow-matching
+  - recursionpharma/gflownet
+  #- kpetrovicc/curly-flow-matching
+  #- NoahElRimawiFine/StructureFlow
+  #- lazaratan/gflownet-generalization
+
+  #- alshedivat/al-folio
+  #- twbs/bootstrap
+  #- jekyll/jekyll
+  #- jquery/jquery
+  #- FortAwesome/Font-Awesome
+  #- jpswalsh/academicons
+  #- mathjax/MathJax
