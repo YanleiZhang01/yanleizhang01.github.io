@@ -1,61 +1,27 @@
 ---
 layout: page
-title: Join Us!
-permalink: /join/
+title: Teaching
+permalink: /teaching/
 nav: true
 nav_order: 3
 ---
 
-We're always looking for talented and motivated students to join our research group! The Atanackovic Lab offers exciting opportunities at the intersection of machine learning and biology.
+## Instructor
 
-#### **PhD Students**
+**MATH 6493: Geometric Data Analysis** — Mila – Quebec AI Institute, Fall 2023 & Fall 2025
+[[Course page]](https://mat6493.wolf.courses/)
 
-We're looking for PhD students with strong backgrounds in:
-- **Computer Science/Engineering**: Machine learning, deep learning, statistics, programming
-- **Mathematics/Statistics**: Optimization, probability theory, linear algebra
-- **Biology/Bioinformatics**: (Nice to haves) Background in biology, biochemistry, and/or health/medicine
+**SUMRY – Summer Undergraduate Math Research at Yale** — Yale University, Summer 2024
+[[Webpage]](https://sumry.yale.edu/sumry-2024)
 
-**Requirements**:
-- Strong programming skills (Python, PyTorch/JAX)
-- Solid mathematical foundation
-- Research experience in ML (knowledge of biology helps but is not required)
-- Excellent communication and writing skills
-- Publication record
-- Passion for interdisciplinary research
+**MATH 228: Complex Analysis** — Queen's University, Winter 2022 & Winter 2021
 
-#### **Master’s Students**
+**MTHE 235: Introduction to Differential Equations** — Queen's University, Fall 2021 (267 students)
 
-We welcome Master's students interested in:
-- Thesis-based research projects
-- Coursework with research components
-- Industry collaboration projects
+---
 
-**Requirements**:
-- Strong academic record
-- Sound programming skills
-- Interest in machine learning and/or biology
-- Commitment to research excellence
+## Teaching Assistant
 
-#### **Undergraduate Students**
+**Queen's University**: Linear Algebra, Calculus, Advanced Calculus, Applied Mathematics, Real Analysis, Mathematical Methods for Engineering and Physics, Mathematics of Engineering Systems, Differential Geometry.
 
-We offer research opportunities for motivated undergraduates!
-
-**Requirements**:
-- Strong academic performance
-- Basic programming knowledge (Python preferred)
-- Interest in learning about ML and biology
-- Commitment to regular lab meetings
-
-#### **Application Process**
-
-**For PhD and Master's Students**:
-1. **Review our research**: Familiarize yourself with our work and research directions
-2. **Prepare application materials**:
-   - CV/Resume
-   - Unofficial transcript
-   - Brief proposal (less than 1 page) of a possible research project oriented around our lab's research direction(s)
-   - Brief explanation of why you're interested in our lab
-3. **Contact us**: Send an email with all application materials
-
-**For Undergraduate Students**:
-1. **Contact us**: Send an email with your CV, unofficial transcript, and a brief summary of your background and interests 
+**Trent University**: Multivariable Calculus III & IV, Ordinary Differential Equations.

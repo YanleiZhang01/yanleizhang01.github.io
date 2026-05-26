@@ -6,29 +6,27 @@ nav: true
 nav_order: 2
 ---
 
-The **<span class="lab-name-accent">Atanackovic</span> Lab** focuses on developing cutting-edge machine learning methods for understanding and modeling natural (physical) systems from data. Our research spans multiple domains at the intersection of artificial intelligence and biology.
+My research focuses on developing novel machine learning methodologies informed by tools from advanced mathematics, with a focus on applications in biomedical discovery.
 
-# <span class="lab-name-accent">Machine Learning</span>
+# Machine Learning for Biomedical Discovery
 
-Our work in machine learning focuses on developing novel approaches to model complex and high-dimensional systems from data.
-
-#### Key Areas:
-- **Generative Modeling**: Flow matching, diffusion models, generative flow networks (GFlowNets), and more
-- **Representation Learning**: Learning to represent complex systems from data
-- **Causal Inference**: Causal discovery and inference for (dynamical) systems
-
-
-# <span class="lab-name-accent">Systems Biology</span>
-
-We develop computational methods that help us decode and understand complex biological systems at multiple scales, from molecular interactions to cellular dynamics.
+I develop principled ML methods grounded in geometry and topology to extract meaningful insights from complex biomedical data.
 
 #### Key Areas:
-- **Single-Cell**: Computational methods for single-cell RNA sequencing data
-- **Gene Regulatory Networks**: Inference and modeling of gene interaction networks
-- **Cellular Dynamics**: Modeling temporal changes in cellular states
-- **Perturbation Response Prediction and Modeling**: Understanding how interventions affect biological systems
+- **Optimal Transport & Generative Modeling**: Flow matching, Schrödinger bridges, and deep generative models for cellular development
+- **Diffusion Geometry & Manifold Learning**: High-dimensional data analysis and single-cell trajectory inference
+- **Graph Signal Processing**: Heat and wave dynamics on graphs for molecular structure prediction
+- **Neural Representation Learning**: Geometric and topological deep learning for brain activity analysis
 
+# Mathematics
+
+My mathematical background informs my ML research. I have worked on:
+
+#### Key Areas:
+- **Differential Geometry**: Geometric flows, exponential maps for time-varying vector fields
+- **Functional Analysis**: Nonlinear spectral theory and fixed-point theory
+- **Differential Equations**: Boundary value problems with integral conditions
 
 ---
 
-**Interested in our research?** Check out our [publications](/publications/) or learn how to [join our lab](/join/)! 
+See my [publications](/publications/) for the full list of research outputs.
