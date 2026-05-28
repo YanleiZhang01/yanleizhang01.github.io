@@ -25,7 +25,7 @@ invited_talks: true
 
 I am an Assistant Professor at School of Computing at Queen's University. 
 
-Previously, I was a postdoc working with groups of [Guy Wolf](https://guywolf.org/), [Yoshua Bengio](https://yoshuabengio.org) and [Eugene Belilovsky](https://eugenium.github.io/) ([Mila – Quebec AI Institute](https://mila.quebec/en/)), [Smita Krishnaswamy](https://krishnaswamylab.org) (Yale University), and [Bastian Rieck](https://bastian.rieck.me) (Helmholtz Munich).
+Previously (Septermber 2022 - June 2026), I was a postdoc working/collaborating with labs at [Mila – Quebec AI Institute](https://mila.quebec/en/), [Yale University](https://www.yale.edu/) and [Harvard Medical School](https://hms.harvard.edu/) ([Guy Wolf](https://guywolf.org/), [Smita Krishnaswamy](https://krishnaswamylab.org), [Yoshua Bengio](https://yoshuabengio.org), [Eugene Belilovsky](https://eugenium.github.io/), [The Abudayyeh–Gootenberg Lab](https://www.abugootlab.org/)).
 
 
 **My research focuses on developing novel machine learning methodologies informed by tools from advanced mathematics, with a focus on applications in biomedical discovery.** My current interests include:
