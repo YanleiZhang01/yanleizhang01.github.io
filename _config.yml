@@ -4,9 +4,9 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 browser_title: Yanlei Zhang
-first_name: Yanlei
-middle_name:
-last_name: Zhang
+first_name: The
+middle_name: XYZ
+last_name: Lab
 email: yanlei.zhang@mila.quebec
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Yanlei Zhang – Postdoctoral Researcher at Mila, Yale University, and Helmholtz Munich.
