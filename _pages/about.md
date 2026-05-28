@@ -21,7 +21,7 @@ selected_papers: true
 invited_talks: true
 ---
 
-# The <span class="lab-name-accent">XYZ</span> Lab
+# The <span class="lab-name-accent">YZ</span> Lab
 
 I am an Assistant Professor at School of Computing at Queen's University. 
 
