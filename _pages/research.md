@@ -29,4 +29,4 @@ My mathematical background informs my ML research. I have worked on:
 
 ---
 
-See my [publications](/yanlei.zhang/publications/) for the full list of research outputs.
+See my [publications](/publications/) for the full list of research outputs.
