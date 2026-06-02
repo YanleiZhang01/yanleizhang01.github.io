@@ -1,14 +1,14 @@
 :root {
   --global-bg-color: #f9f9f6;                /* Softer off-white */
-  --global-theme-color: #a75d5d;             /* Muted maroon */
-  --global-hover-color: #b98c8c;             /* Muted rose */
+  --global-theme-color: #4a7c9e;             /* Teal blue */
+  --global-hover-color: #6a9dbe;             /* Lighter teal blue */
   --global-text-color: #232323;              /* Modern dark gray */
   --global-footer-bg-color: #ececec;         /* Light gray footer */
-  --global-footer-text-color: #a75d5d;       /* Maroon footer text */
+  --global-footer-text-color: #4a7c9e;       /* Teal blue footer text */
   --global-card-bg-color: #fff;              /* White cards */
   --global-divider-color: #e5e5e5;           /* Subtle divider */
-  --global-link-color: #a75d5d;              /* Maroon links */
-  --global-link-hover-color: #b98c8c;        /* Rose hover */
+  --global-link-color: #4a7c9e;              /* Teal blue links */
+  --global-link-hover-color: #6a9dbe;        /* Lighter teal hover */
 }
 
 html[data-theme="dark"] {
