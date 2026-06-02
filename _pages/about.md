@@ -36,5 +36,5 @@ Our current research focuses include:
 By bridging modern machine learning with advanced mathematics, our goal is to develop robust, interpretable, and scientifically meaningful AI methods that advance biomedical research and our understanding of complex systems.
 
 
-#### We are hiring PhDs, Postdocs, & Visiting Researchers! [Contact Us](/contact/) or [Join Us](/join/) if you are interested! 
+#### :mega: We are hiring PhDs, Postdocs, & Visiting Researchers! [Contact Us](/contact/) or [Join Us](/join/) if you are interested! 
 
