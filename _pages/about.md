@@ -21,7 +21,7 @@ selected_papers: true
 invited_talks: true
 ---
 
-# The <span class="lab-name-accent">YZ</span> Lab
+# <span class="lab-name-accent">xYZ</span> Lab
 
 Our lab develops novel machine learning methodologies motivated by challenges in biomedical discovery and scientific understanding. We are particularly interested in integrating ideas from geometry, dynamical systems, optimal transport, and representation learning to build mathematically grounded AI systems for complex biological and high-dimensional data.
 
