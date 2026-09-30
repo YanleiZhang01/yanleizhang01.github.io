@@ -16,7 +16,6 @@ Feel free to reach out for collaborations, questions about my research, or gener
 
 **Yale**: yz2472@yale.edu
 
-
 ### Connect
 
 <div class="social-icons">

@@ -6,4 +6,4 @@ nav: true
 nav_order: 4
 ---
 
-Open positions coming soon! 
+Open positions coming soon!

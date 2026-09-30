@@ -4,4 +4,5 @@ date: 2025-04-01 00:00:00-0400
 inline: true
 related_posts: false
 ---
-Paper accepted at **Frontiers in Psychiatry**: *Deep Multimodal Representations and Classification of First-Episode Psychosis via Live Face Processing*. :brain:
+
+Paper accepted at **Frontiers in Psychiatry**: _Deep Multimodal Representations and Classification of First-Episode Psychosis via Live Face Processing_. :brain:

@@ -13,6 +13,7 @@ My research focuses on developing novel machine learning methodologies informed 
 I develop principled ML methods grounded in geometry and topology to extract meaningful insights from complex biomedical data.
 
 #### Key Areas:
+
 - **Optimal Transport & Generative Modeling**: Flow matching, Schrödinger bridges, and deep generative models for cellular development
 - **Diffusion Geometry & Manifold Learning**: High-dimensional data analysis and single-cell trajectory inference
 - **Graph Signal Processing**: Heat and wave dynamics on graphs for molecular structure prediction
@@ -23,6 +24,7 @@ I develop principled ML methods grounded in geometry and topology to extract mea
 My mathematical background informs my ML research. I have worked on:
 
 #### Key Areas:
+
 - **Differential Geometry**: Geometric flows, exponential maps for time-varying vector fields
 - **Functional Analysis**: Nonlinear spectral theory and fixed-point theory
 - **Differential Equations**: Boundary value problems with integral conditions

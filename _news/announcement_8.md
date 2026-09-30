@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New preprint on **Path-independent Multi-parameter Flow Matching** is available on **arXiv**: *[PiFM](https://arxiv.org/abs/2605.13487)*. :scroll:
-
+New preprint on **Path-independent Multi-parameter Flow Matching** is available on **arXiv**: _[PiFM](https://arxiv.org/abs/2605.13487)_. :scroll:

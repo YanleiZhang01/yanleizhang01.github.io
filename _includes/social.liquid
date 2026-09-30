@@ -113,11 +113,15 @@
   <a href="{{ site.baseurl }}/feed.xml" title="RSS Feed"><i class="fa-solid fa-square-rss"></i></a>
 {% endif %}
 {% if site.cv_url %}
-  <a href="{{ site.cv_url }}" target="_blank" title="CV" 
-     class="cv-link" 
-     style="color: {{ site.color_text }}; text-decoration: none;" 
-     onmouseover="this.style.color='{{ site.color_link }}';" 
-     onmouseout="this.style.color='{{ site.color_text }}';">
+  <a
+    href="{{ site.cv_url }}"
+    target="_blank"
+    title="CV"
+    class="cv-link"
+    style="color: {{ site.color_text }}; text-decoration: none;"
+    onmouseover="this.style.color='{{ site.color_link }}';"
+    onmouseout="this.style.color='{{ site.color_text }}';"
+  >
     CV
   </a>
 {% endif %}

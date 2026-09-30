@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 I will be joining the **School of Computing at Queen's University** as an Assistant Professor starting July 2026. :mortar_board:
-
