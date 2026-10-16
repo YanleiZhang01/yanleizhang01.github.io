@@ -8,7 +8,7 @@ nav_order: 2
 
 I am an Assistant Professor in the School of Computing at Queen's University.
 
-Previously (Septermber 2022 - June 2026), I was a postdoc working/collaborating with labs at [Mila – Quebec AI Institute](https://mila.quebec/en/), [Yale University](https://www.yale.edu/) and [Harvard Medical School](https://hms.harvard.edu/) ([Guy Wolf](https://guywolf.org/), [Smita Krishnaswamy](https://krishnaswamylab.org), [Yoshua Bengio](https://yoshuabengio.org), [Eugene Belilovsky](https://eugenium.github.io/), [The Abudayyeh–Gootenberg Lab](https://www.abugootlab.org/)).
+Previously (Septermber 2022 - June 2026), I was a postdoc working with labs at [Mila – Quebec AI Institute](https://mila.quebec/en/), [Yale University](https://www.yale.edu/) and [Harvard Medical School](https://hms.harvard.edu/) ([Guy Wolf](https://guywolf.org/), [Smita Krishnaswamy](https://krishnaswamylab.org), [Yoshua Bengio](https://yoshuabengio.org), [Eugene Belilovsky](https://eugenium.github.io/), [The Abudayyeh–Gootenberg Lab](https://www.abugootlab.org/)).
 
 # Research Interests
 
