@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper _[Neurospectrum] at Yale University titled (https://www.sciencedirect.com/science/article/pii/S0925231226028109)_ — **Neurospectrum: A geometric and topological deep learning framework for uncovering spatiotemporal signatures in neural activity** — has been accepted at **Neurocomputing**. :tada:
+Our paper on brain decoding titled _[**Neurospectrum: A geometric and topological deep learning framework for uncovering spatiotemporal signatures in neural activity**](https://www.sciencedirect.com/science/article/pii/S0925231226028109)_ — has been accepted at **Neurocomputing** :tada:
